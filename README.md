@@ -1,4 +1,19 @@
-### Hi there 👋
+### Introduction
+I am a master's student at Aarhus Univeristy within the Bioinformatics Research Center. My background is in Applied Mathematics and Statistics, and I strive to be a technically adept generalist. I believe that the most fruitful innovation and progress occurs within interdisciplinary intersections. Therefore I maintain as a goal to have multiple technical literacies and strong soft skills to communicate new findings. 
+### Technical Interests
+- Natural Language Processing
+- Network Theory
+- Quantitative Social Theory
+- Metascience
+- Innovation Theory
+### General Interests
+- Learning Theory, Skills
+- Philosophy of Consciousness
+- Politcal Analysis
+### Current Work
+- Project: Phrenogeny, a NLP Inspired Application of Bioinformatics Principles to Temporal Concept Analysis
+- Course: Statistical and Machine Learning in Bioinformatics
+- Course: Algorithms in Bioinformatics
 
 <!--
 **hcharlton/hcharlton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
